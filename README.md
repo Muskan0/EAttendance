@@ -6,11 +6,12 @@ The attendance is marked in the csv file, along with the date, time and the subj
 
 The GUI is made using Tkinter.
 
-The images used for this project was images of my classmates, 5-6 images per person, taken with different angles, with/without specs.
+The images used for this project was images of my classmates, only one image per person is enough.
 
 
 ### Demo Video:
 
 
-https://user-images.githubusercontent.com/49088492/174426717-4d051135-c857-42a4-a94b-18c27c34f965.mp4
+https://user-images.githubusercontent.com/49088492/183369238-000089dd-8e26-425f-bda8-e25c3bfedf1f.mp4
+
 
